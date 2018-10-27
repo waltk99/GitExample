@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitExample</string>
+    <string name="hello_world">Hello - You've got them all</string>
 </resources>
